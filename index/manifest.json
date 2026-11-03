@@ -1,6 +1,0 @@
-{
-  "fingerprint": "affc90bd767f26106dffe01479319ead74a22be8c92e986715ad309529059426",
-  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
-  "record_count": 577,
-  "dimensions": 384
-}
